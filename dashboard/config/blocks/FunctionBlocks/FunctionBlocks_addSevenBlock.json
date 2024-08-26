@@ -1,0 +1,12 @@
+{
+  "category": "Experimental",
+  "config": {
+    "style": "procedure_blocks",
+    "func": "addSevenBlock",
+    "blockText": "addSeven",
+    "args": [
+
+    ],
+    "eventBlock": false
+  }
+}

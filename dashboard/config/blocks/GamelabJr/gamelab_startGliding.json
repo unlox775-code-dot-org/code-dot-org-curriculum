@@ -1,0 +1,14 @@
+{
+  "category": "Experimental",
+  "config": {
+    "style": "default",
+    "func": "startGliding",
+    "blockText": "{SPRITE} starts gliding",
+    "args": [
+      {
+        "name": "SPRITE",
+        "type": "Sprite"
+      }
+    ]
+  }
+}

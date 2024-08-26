@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "beginQuarantining",
+    "blockText": "monsters begin quarantining when sick",
+    "style": "behavior_blocks"
+  }
+}

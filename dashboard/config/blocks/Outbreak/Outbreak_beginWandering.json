@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "beginWandering",
+    "blockText": "monsters begin wandering",
+    "style": "behavior_blocks"
+  }
+}

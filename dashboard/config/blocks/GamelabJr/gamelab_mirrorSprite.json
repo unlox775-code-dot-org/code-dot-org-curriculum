@@ -1,0 +1,27 @@
+{
+  "category": "Sprites",
+  "config": {
+    "func": "mirrorSprite",
+    "blockText": "{SPRITE} face {DIRECTION}",
+    "args": [
+      {
+        "name": "SPRITE",
+        "type": "Sprite"
+      },
+      {
+        "name": "DIRECTION",
+        "options": [
+          [
+            "right",
+            "\"right\""
+          ],
+          [
+            "left",
+            "\"left\""
+          ]
+        ]
+      }
+    ],
+    "style": "default"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "moveForward",
+    "blockText": "move forward",
+    "style": "default"
+  }
+}

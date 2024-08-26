@@ -1,0 +1,14 @@
+{
+  "category": "Poetry - Effects",
+  "config": {
+    "func": "setFontColor",
+    "style": "world_blocks",
+    "blockText": "set text color {FILL}",
+    "args": [
+      {
+        "name": "FILL",
+        "type": "Colour"
+      }
+    ]
+  }
+}

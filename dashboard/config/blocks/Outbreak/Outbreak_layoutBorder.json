@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "layoutBorder",
+    "blockText": "layout monsters in a border",
+    "style": "default"
+  }
+}

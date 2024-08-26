@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "layoutGrid",
+    "blockText": "layout monsters as a grid",
+    "style": "default"
+  }
+}

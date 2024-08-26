@@ -1,0 +1,24 @@
+{
+  "category": "Events",
+  "config": {
+    "func": "everyVerseChorus",
+    "blockText": "every {UNIT} ",
+    "args": [
+      {
+        "name": "UNIT",
+        "options": [
+          [
+            "verse",
+            "\"verse\""
+          ],
+          [
+            "chorus",
+            "\"chorus\""
+          ]
+        ]
+      }
+    ],
+    "eventLoopBlock": true,
+    "style": "loop_blocks"
+  }
+}

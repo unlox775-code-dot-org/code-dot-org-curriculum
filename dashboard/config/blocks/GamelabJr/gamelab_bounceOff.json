@@ -1,0 +1,19 @@
+{
+  "category": "Sprites",
+  "config": {
+    "style": "default",
+    "func": "bounceOff",
+    "docFunc": "bounce-off",
+    "blockText": "{SPRITE} bounces off {TARGET}",
+    "args": [
+      {
+        "name": "SPRITE",
+        "type": "Sprite"
+      },
+      {
+        "name": "TARGET",
+        "type": "Sprite"
+      }
+    ]
+  }
+}

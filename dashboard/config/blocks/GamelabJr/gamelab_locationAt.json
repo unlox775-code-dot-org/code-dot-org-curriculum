@@ -1,0 +1,21 @@
+{
+  "category": "Location",
+  "config": {
+    "func": "locationAt",
+    "docFunc": "gamelab_locationAt",
+    "blockText": "location x: {X} y: {Y}",
+    "returnType": "Location",
+    "style": "location_blocks",
+    "args": [
+      {
+        "name": "X",
+        "type": "Number"
+      },
+      {
+        "name": "Y",
+        "type": "Number"
+      }
+    ],
+    "inline": false
+  }
+}

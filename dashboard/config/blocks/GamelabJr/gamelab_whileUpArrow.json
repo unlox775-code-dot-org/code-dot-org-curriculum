@@ -1,0 +1,12 @@
+{
+  "category": "Unused",
+  "config": {
+    "style": "loop_blocks",
+    "func": "whileUpArrow",
+    "blockText": "while up arrow pressed",
+    "args": [
+
+    ],
+    "eventLoopBlock": true
+  }
+}

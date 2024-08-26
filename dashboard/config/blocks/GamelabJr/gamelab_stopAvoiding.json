@@ -1,0 +1,14 @@
+{
+  "category": "Experimental",
+  "config": {
+    "style": "default",
+    "func": "stopAvoiding",
+    "blockText": "{SPRITE} stops avoiding other sprites",
+    "args": [
+      {
+        "name": "SPRITE",
+        "type": "Sprite"
+      }
+    ]
+  }
+}

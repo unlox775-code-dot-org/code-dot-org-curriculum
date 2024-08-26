@@ -1,0 +1,28 @@
+{
+  "category": "Experimental",
+  "config": {
+    "func": "statesOfMatter",
+    "blockText": "{BEHAVIOR}",
+    "returnType": "Behavior",
+    "style": "behavior_blocks",
+    "args": [
+      {
+        "name": "BEHAVIOR",
+        "options": [
+          [
+            "solid",
+            "new Behavior(solid, [])"
+          ],
+          [
+            "liquid",
+            "new Behavior(liquid, [])"
+          ],
+          [
+            "gas",
+            "new Behavior(wandering, [])"
+          ]
+        ]
+      }
+    ]
+  }
+}

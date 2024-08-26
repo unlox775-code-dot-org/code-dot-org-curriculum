@@ -1,0 +1,18 @@
+{
+  "category": "Experimental",
+  "config": {
+    "style": "default",
+    "func": "startAvoiding",
+    "blockText": "{SPRITE} begins avoiding {TARGET}",
+    "args": [
+      {
+        "name": "SPRITE",
+        "type": "Sprite"
+      },
+      {
+        "name": "TARGET",
+        "customInput": "costumePicker"
+      }
+    ]
+  }
+}

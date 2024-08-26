@@ -1,0 +1,19 @@
+{
+  "category": "World",
+  "config": {
+    "func": "setPrompt",
+    "inline": false,
+    "blockText": "prompt user {QUESTION} for variable {VAR}",
+    "args": [
+      {
+        "name": "QUESTION",
+        "type": "String"
+      },
+      {
+        "name": "VAR",
+        "customInput": "variableNamePicker"
+      }
+    ],
+    "style": "default"
+  }
+}

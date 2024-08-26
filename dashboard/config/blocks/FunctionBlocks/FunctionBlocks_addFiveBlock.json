@@ -1,0 +1,12 @@
+{
+  "category": "Experimental",
+  "config": {
+    "style": "procedure_blocks",
+    "func": "addFiveBlock",
+    "blockText": "addFive",
+    "args": [
+
+    ],
+    "eventBlock": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "category": "World",
+  "config": {
+    "func": "playSound",
+    "docFunc": "gamelab_playSound",
+    "blockText": "play sound {SOUND}",
+    "args": [
+      {
+        "name": "SOUND",
+        "customInput": "soundPicker"
+      }
+    ],
+    "style": "default"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Location",
+  "config": {
+    "func": "locationMouse",
+    "docFunc": "gamelab_locationMouse",
+    "blockText": "mouse location",
+    "returnType": "Location",
+    "style": "location_blocks"
+  }
+}

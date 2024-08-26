@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "layoutRandom",
+    "blockText": "layout monsters randomly",
+    "style": "default"
+  }
+}

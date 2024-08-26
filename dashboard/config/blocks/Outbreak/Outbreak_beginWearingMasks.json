@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "beginWearingMasks",
+    "blockText": "monsters begin wearing masks",
+    "style": "behavior_blocks"
+  }
+}

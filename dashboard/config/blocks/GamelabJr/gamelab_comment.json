@@ -1,0 +1,20 @@
+{
+  "category": "Comments",
+  "config": {
+    "blockText": "comment: {COMMENT}",
+    "docFunc": "gamelab_comment",
+    "func": "comment",
+    "color": [
+      0,
+      0,
+      0.7
+    ],
+    "args": [
+      {
+        "name": "COMMENT",
+        "field": true,
+        "type": "String"
+      }
+    ]
+  }
+}

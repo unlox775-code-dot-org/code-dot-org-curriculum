@@ -1,0 +1,28 @@
+{
+  "category": "Music",
+  "config": {
+    "func": "getEnergy",
+    "blockText": "get {RANGE}",
+    "args": [
+      {
+        "name": "RANGE",
+        "options": [
+          [
+            "bass",
+            "\"low\""
+          ],
+          [
+            "mid",
+            "\"mid\""
+          ],
+          [
+            "treble",
+            "\"high\""
+          ]
+        ]
+      }
+    ],
+    "returnType": "Number",
+    "style": "math_blocks"
+  }
+}

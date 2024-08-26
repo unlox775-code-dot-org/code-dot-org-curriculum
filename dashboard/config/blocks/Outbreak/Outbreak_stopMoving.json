@@ -1,0 +1,8 @@
+{
+  "category": "",
+  "config": {
+    "func": "stopMoving",
+    "blockText": "monsters stop moving",
+    "style": "behavior_blocks"
+  }
+}

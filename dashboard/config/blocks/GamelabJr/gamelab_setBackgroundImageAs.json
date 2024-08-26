@@ -1,0 +1,16 @@
+{
+  "category": "World",
+  "config": {
+    "category": "World",
+    "func": "setBackgroundImageAs",
+    "docFunc": "gamelab_setBackgroundImage",
+    "blockText": "set background to {IMG}",
+    "args": [
+      {
+        "name": "IMG",
+        "customInput": "backgroundPicker"
+      }
+    ],
+    "style": "world_blocks"
+  }
+}

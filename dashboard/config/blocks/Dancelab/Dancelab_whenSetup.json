@@ -1,0 +1,9 @@
+{
+  "category": "Start",
+  "config": {
+    "func": "whenSetup",
+    "blockText": "setup",
+    "eventLoopBlock": true,
+    "style": "setup_blocks"
+  }
+}

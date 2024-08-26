@@ -1,0 +1,18 @@
+{
+  "category": "Poetry - Events",
+  "config": {
+    "style": "event_blocks",
+    "func": "whenPromptAnswered",
+    "blockText": "when {VAR} answered",
+    "args": [
+      {
+        "name": "VAR",
+        "variableInput": true
+      }
+    ],
+    "callbackParams": [
+      "extraArgs"
+    ],
+    "eventBlock": true
+  }
+}

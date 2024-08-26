@@ -1,0 +1,15 @@
+{
+  "category": "Sprites",
+  "config": {
+    "func": "xLocationOf",
+    "blockText": "x coordinate of {SPRITE}",
+    "returnType": "Number",
+    "args": [
+      {
+        "name": "SPRITE",
+        "type": "Sprite"
+      }
+    ],
+    "style": "math_blocks"
+  }
+}
